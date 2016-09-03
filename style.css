@@ -1,0 +1,46 @@
+.main{
+    width: 765px;
+
+    margin: 0 auto;
+    border: 5px double lightslategray;
+}
+.content{
+    width: 80%;
+    height: 60%;
+    margin: 0 auto;
+}
+.logo img{
+margin-left: 405px;
+margin-top: 10px; 
+}
+.nav{ 
+ border-top: 5px double black;
+ border-bottom: 3px solid black;
+ padding: 10px;
+ margin: 15px;
+}
+li{
+    display: inline;
+    margin: 17px;
+    text-decoration: none;
+    }
+    .back img{
+        width: 100%;
+    }
+    p{
+        text-align: center;
+        font-size: 20px;
+        font-family: monospace;
+        padding: 6px;
+    }
+    .footer{
+    border: 2px solid lightslategrey;
+    width: 65%;
+   
+    margin: 0 auto;
+    margin-bottom: 10px;
+    }
+    a {
+        text-decoration: none;
+        font-size: 20px;
+    }
